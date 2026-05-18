@@ -9,4 +9,4 @@ Documenting my daily Devops learning
 |Day  04  |linux - script execution permissions            |       ✅        |
 |Day  05  |linux - selinux configuration on app server 3   |       ✅        |
 |Day  06  |linux - create a corn job                       |       ✅        |
-|
+|Day  07  |linux - linux ssh authentication                |       ✅        |
