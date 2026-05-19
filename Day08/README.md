@@ -9,11 +9,11 @@ sudo pip3 install ansible==4.7.0
 ### step 2 : verify installation 
 ansible --version
 
-# output received
-.ansible [core 2.11.12]
-.executable location = /user/local/bin/ansible
-.python version = 3.9.19
-.jinja version = 3.1.6
+## output received
+ansible [core 2.11.12]
+executable location = /user/local/bin/ansible
+python version = 3.9.19
+jinja version = 3.1.6
 
 ## what i learned 
 .sudo pip3 install =install globally for all users
