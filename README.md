@@ -11,3 +11,4 @@ Documenting my daily Devops learning
 |Day  06  |Linux - create a corn job                                            |       ✅        |
 |Day  07  |Linux - linux ssh authentication                                     |       ✅        |
 |Day  08  |Ansible - install Ansible 4.7.0 globally via pip3 on jump host       |       ✅        |
+|Day  09  |Linux - MariaDB service troubleshootingand fix                       |       ✅        |
