@@ -13,3 +13,4 @@ Documenting my daily Devops learning
 |Day  08  |Ansible - install Ansible 4.7.0 globally via pip3 on jump host       |       ✅        |
 |Day  09  |Linux - MariaDB service troubleshootingand fix                       |       ✅        |
 |Day  10  |Linux - Linux Bash scripts                                           |       ✅        |
+|Day  11  |Linux - install and configure tomcat server                          |       ✅        |    
