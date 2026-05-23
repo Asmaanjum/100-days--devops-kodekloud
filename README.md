@@ -14,3 +14,4 @@ Documenting my daily Devops learning
 |Day  09  |Linux - MariaDB service troubleshootingand fix                       |       ✅        |
 |Day  10  |Linux - Linux Bash scripts                                           |       ✅        |
 |Day  11  |Linux - install and configure tomcat server                          |       ✅        |    
+|Day  12  |Linux - apache service troubleshooting on port 5001                  |       ✅        |
