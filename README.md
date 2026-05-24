@@ -8,10 +8,11 @@ Documenting my daily Devops learning
 |Day  03  |Linux - disable root SSH login                                       |       ✅        |
 |Day  04  |Linux - script execution permissions                                 |       ✅        |
 |Day  05  |Linux - selinux configuration on app server 3                        |       ✅        |
-|Day  06  |Linux - create a corn job                                            |       ✅        |
+|Day  06  |Linux - create a cron job                                            |       ✅        |
 |Day  07  |Linux - linux ssh authentication                                     |       ✅        |
 |Day  08  |Ansible - install Ansible 4.7.0 globally via pip3 on jump host       |       ✅        |
 |Day  09  |Linux - MariaDB service troubleshootingand fix                       |       ✅        |
 |Day  10  |Linux - Linux Bash scripts                                           |       ✅        |
 |Day  11  |Linux - install and configure tomcat server                          |       ✅        |    
 |Day  12  |Linux - apache service troubleshooting on port 5001                  |       ✅        |
+|Day  13  |Linux - iptables installation and configuration                      |       ✅        |
