@@ -11,7 +11,7 @@ RESULT : 10.244.247.221
 ### step 2 : install iptables on each app server
 '''yum install -y iptables-nft'''
 
-WHY iptables-nft : on RHEL/Rockey 9, the traditionaliptables binary is not installed by default. the iptables-nft package provides iptables command as compatibility layer over nftables
+WHY iptables-nft : on RHEL/Rockey 9, the traditional iptables binary is not installed by default. the iptables-nft package provides iptables command as compatibility layer over nftables
 ISSUE FACED : 
 -'yum install iptables-services' installed but binary was missing
 -'systemctl start iptables' failed with exit code 5
