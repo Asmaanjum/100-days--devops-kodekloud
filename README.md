@@ -16,3 +16,4 @@ Documenting my daily Devops learning
 |Day  11  |Linux - install and configure tomcat server                          |       ✅        |    
 |Day  12  |Linux - apache service troubleshooting on port 5001                  |       ✅        |
 |Day  13  |Linux - iptables installation and configuration                      |       ✅        |
+|Day  14  |Linux - linux process troubleshooting                                |       ✅        |
