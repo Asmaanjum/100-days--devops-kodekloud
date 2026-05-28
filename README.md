@@ -19,3 +19,4 @@ Documenting my daily Devops learning
 |Day  14  |Linux - linux process troubleshooting                                |       ✅        |
 |Day  15  |Linux - setup ssl for nginx                                          |       ✅        |
 |Day  16  |Linux - install and configure Nginx as an LBR                        |       ✅        |
+|Day  17  |linux - install and configure postgreSQL                             |       ✅        |
