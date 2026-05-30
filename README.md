@@ -21,3 +21,4 @@ Documenting my daily Devops learning
 |Day  16  |Linux - install and configure Nginx as an LBR                        |       ✅        |
 |Day  17  |Linux - install and configure postgreSQL                             |       ✅        |
 |Day  18  |Linux - install and configure DB server                              |       ✅        |
+|Day  19  |Linux - install and configure web application                        |       ✅        |
