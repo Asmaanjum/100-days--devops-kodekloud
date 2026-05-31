@@ -22,3 +22,4 @@ Documenting my daily Devops learning
 |Day  17  |Linux - install and configure postgreSQL                             |       ✅        |
 |Day  18  |Linux - install and configure DB server                              |       ✅        |
 |Day  19  |Linux - install and configure web application                        |       ✅        |
+|Day  20  |Linux - configure Nginx + PHP-FPM using Unix Sock                    |       ✅        | 
