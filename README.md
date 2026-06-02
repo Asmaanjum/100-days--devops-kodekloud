@@ -24,3 +24,4 @@ Documenting my daily Devops learning
 |Day  19  |Linux - install and configure web application                        |       ✅        |
 |Day  20  |Linux - configure Nginx + PHP-FPM using Unix Sock                    |       ✅        | 
 |Day  21  |Linux - setup git repository on storage server                       |       ✅        |
+|Day  22  |Linux - clone git repository on storage server                       |       ✅        |
