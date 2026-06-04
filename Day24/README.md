@@ -32,4 +32,4 @@ WHY : -b flag creates a NEW branch and switches to it at the same time
 ## step 6 : verify
 '''git branch'''
 
-## REsult : confirmed*xfusioncorp_official was created
+## RESULT : confirmed*xfusioncorp_official was created
