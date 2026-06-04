@@ -1,7 +1,7 @@
 # 100-days--devops-kodekloud
 ## My Journey 
 Documenting my daily Devops learning
-|   Day   |     Topic                                                           |      Status     |
+|   Day   |                      Topic                                          |      Status     |
 |---------|---------------------------------------------------------------------|-----------------|
 |Day  01  |Linux - create non-interactive user                                  |       ✅        |
 |Day  02  |Linux - create user with expiry date                                 |       ✅        |
@@ -26,3 +26,4 @@ Documenting my daily Devops learning
 |Day  21  |Git   - setup git repository on storage server                       |       ✅        |
 |Day  22  |Git   - clone git repository on storage server                       |       ✅        |
 |Day  23  |Git   - fork a Git repository on gitea                               |       ✅        |
+|Day  24  |Git   - Git create branches                                          |       ✅        |
