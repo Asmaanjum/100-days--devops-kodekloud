@@ -27,3 +27,4 @@ Documenting my daily Devops learning
 |Day  22  |Git   - clone git repository on storage server                       |       ✅        |
 |Day  23  |Git   - fork a Git repository on gitea                               |       ✅        |
 |Day  24  |Git   - Git create branches                                          |       ✅        |
+|Day  25  |Git   - Git merge branches                                           |       ✅        |
